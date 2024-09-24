@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061819743034",
+    "project_id": "chatsense-db7d8",
+    "storage_bucket": "chatsense-db7d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061819743034:android:702c7b57135c7e875c2e03",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4TergrMmo9tSVt613wGg8xltxzWd_pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
