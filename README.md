@@ -38,7 +38,7 @@ The Flutter application provides a user interface for sending and receiving voic
 ### Setup and Running
 
 1. Ensure you have Flutter installed on your system.
-2. Navigate to the `fullapp/` directory.
+2. Navigate to the `fullApp/` directory.
 3. Run `flutter pub get` to install dependencies.
 4. Connect a device or start an emulator.
 5. Run `flutter run` to start the application.
